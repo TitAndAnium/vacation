@@ -1,11 +1,56 @@
 [
   {
-    "title": "Suites del Mundo",
-    "description": "Boutique accommodatie in Alhaur\u00edn el Grande met zwembad en dakterras.",
-    "image": "https://source.unsplash.com/400x250/?andalusia,hotel",
-    "link": "https://www.google.com/maps?q=36.6428,-4.6876",
-    "lat": 36.6428,
-    "lng": -4.6876,
-    "category": "accommodatie"
+    "title": "El Pimpi",
+    "description": "Iconisch restaurant in M\u00e1laga met Andalusische sfeer, wijnvaten en live gitaarmuziek.",
+    "image": "./images/diner.jpg",
+    "link": "https://goo.gl/maps/XQ6jZCUHAtJ2",
+    "lat": 36.7213,
+    "lng": -4.418,
+    "category": "diner"
+  },
+  {
+    "title": "Rock of Gibraltar",
+    "description": "Beroemde rots met uitzicht over Europa en Afrika, thuis van de wilde berberapen.",
+    "image": "./images/sight.jpg",
+    "link": "https://goo.gl/maps/suXqgW37XztQJdeRA",
+    "lat": 36.1408,
+    "lng": -5.3536,
+    "category": "sight"
+  },
+  {
+    "title": "Andajuicya - The Boutique",
+    "description": "Boho ontbijtspot in Alhaur\u00edn el Grande met specialty koffie en gezonde opties.",
+    "image": "./images/breakfast.jpg",
+    "link": "https://goo.gl/maps/CWSM1ewVR1QUKNmH9",
+    "lat": 36.6439,
+    "lng": -4.6859,
+    "category": "ontbijt"
+  },
+  {
+    "title": "Centro Pompidou M\u00e1laga",
+    "description": "Modern kunstmuseum in kleurrijke kubus aan de haven van M\u00e1laga.",
+    "image": "./images/museum.jpg",
+    "link": "https://goo.gl/maps/zsGVpih4rHMKDWqD6",
+    "lat": 36.7157,
+    "lng": -4.4131,
+    "category": "museum"
+  },
+  {
+    "title": "Caminito del Rey",
+    "description": "Spectaculair wandelpad langs kliffen boven El Chorro, bij Ardales.",
+    "image": "./images/hiking.jpg",
+    "link": "https://goo.gl/maps/ijMYN5VX3AjPVjGd6",
+    "lat": 36.9104,
+    "lng": -4.7578,
+    "category": "hike"
+  },
+  {
+    "title": "Santiago\u2019s Kitchen",
+    "description": "Fijnproeverij in Alhaur\u00edn el Grande met tuinsetting, internationale keuken en lokale producten.",
+    "image": "./images/diner.jpg",
+    "link": "https://goo.gl/maps/FFCmC4n56dj9LFBN8",
+    "lat": 36.6374,
+    "lng": -4.6856,
+    "category": "diner"
   }
 ]
