@@ -1,5 +1,95 @@
 [
 {
+"title": "Ermita del Calvario",
+"description": "Rustige kapel boven Alhaurín el Grande met wandelpad en panoramisch uitzicht.",
+"image": "https://images.unsplash.com/photo-1620663452919-d2b7f89bcdf3",
+"link": "https://goo.gl/maps/j3Yo5AxwFzXw2X6s8",
+"lat": 36.6511,
+"lng": -4.6778,
+"category": "uitzicht"
+},
+{
+"title": "Bar Picasso",
+"description": "Klassiek tapasrestaurant aan het strand van Torremolinos, populair bij locals.",
+"image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1",
+"link": "https://goo.gl/maps/2FrGDqPCpMyBQyVv9",
+"lat": 36.6212,
+"lng": -4.4994,
+"category": "diner"
+},
+{
+"title": "Sohail Castle",
+"description": "Moorse vesting aan de kust van Fuengirola, nu gebruikt voor openluchtevenementen.",
+"image": "https://images.unsplash.com/photo-1608587239703-84f0b1eb7cfb",
+"link": "https://goo.gl/maps/tMM1FnEm3AhPxChK9",
+"lat": 36.5289,
+"lng": -4.6251,
+"category": "sight"
+},
+{
+"title": "Torre del Mar Promenade",
+"description": "Lange boulevard met palmbomen, strandbars en fietspad langs de kust bij Vélez-Málaga.",
+"image": "https://images.unsplash.com/photo-1560244178-c8f733dd230b",
+"link": "https://goo.gl/maps/Vb1J6TXnKm52",
+"lat": 36.7379,
+"lng": -4.0964,
+"category": "wandelen"
+},
+{
+"title": "Chiringuito El Cachalote",
+"description": "Visrestaurant direct op het strand van Málaga met verse sardientjes en zeezicht.",
+"image": "https://images.unsplash.com/photo-1584680226838-75b70f4b52e6",
+"link": "https://goo.gl/maps/YGpG5yYY5qR6Pvhv8",
+"lat": 36.7132,
+"lng": -4.3995,
+"category": "diner"
+},
+{
+"title": "Albaicín Granada",
+"description": "Witte wijk met smalle straatjes, theehuisjes en uitzicht op het Alhambra – vol historie.",
+"image": "https://images.unsplash.com/photo-1599396640955-5e6a2b7d3e9a",
+"link": "https://goo.gl/maps/KRxkiivU5VU2",
+"lat": 37.1811,
+"lng": -3.5945,
+"category": "wijk"
+},
+{
+"title": "Larios Centro",
+"description": "Modern winkelcentrum in Málaga vlakbij het busstation, met Zara, Mango en foodcourt.",
+"image": "https://images.unsplash.com/photo-1555529964-69e7c4a16d0b",
+"link": "https://goo.gl/maps/d5R88jBYUtGpZTLg8",
+"lat": 36.7145,
+"lng": -4.4323,
+"category": "winkelen"
+},
+{
+"title": "Mirador del Estrecho",
+"description": "Spectaculair uitzichtpunt bij Tarifa met zicht op Afrika op heldere dagen.",
+"image": "https://images.unsplash.com/photo-1618343365032-6aebc4d7928d",
+"link": "https://goo.gl/maps/z3rNexyx2EU2",
+"lat": 36.0099,
+"lng": -5.5875,
+"category": "uitzicht"
+},
+{
+"title": "Plaza de Toros Ronda",
+"description": "Eén van de oudste arena’s van Spanje, nu ook museum over stierenvechten en paarden.",
+"image": "https://images.unsplash.com/photo-1545911255-7d36aab2d7a3",
+"link": "https://goo.gl/maps/c9XRY4MCtJ62",
+"lat": 36.7411,
+"lng": -5.1662,
+"category": "cultuur"
+},
+{
+"title": "Restaurante La Molienda",
+"description": "Populaire ontbijtspot in Málaga met specialty coffee, tostadas en een rustige binnenplaats.",
+"image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+"link": "https://goo.gl/maps/2snR5W2nZzH2",
+"lat": 36.7189,
+"lng": -4.4210,
+"category": "ontbijt"
+},
+{
 "title": "Castillo de Colomares",
 "description": "Sprookjesachtig monument ter ere van Columbus in Benalmádena, met torens en symboliek.",
 "image": "https://images.unsplash.com/photo-1609339072185-1a6841663b6e",
