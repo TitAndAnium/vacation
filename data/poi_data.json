@@ -1,5 +1,95 @@
 [
 {
+"title": "Castillo de Colomares",
+"description": "Sprookjesachtig monument ter ere van Columbus in Benalmádena, met torens en symboliek.",
+"image": "https://images.unsplash.com/photo-1609339072185-1a6841663b6e",
+"link": "https://goo.gl/maps/Koe7BPy8DuG2",
+"lat": 36.5967,
+"lng": -4.5692,
+"category": "sight"
+},
+{
+"title": "Acuario de Sevilla",
+"description": "Modern aquarium in Sevilla met zeeschildpadden, tropische vissen en educatieve installaties.",
+"image": "https://images.unsplash.com/photo-1580116194362-24c5e7e65f32",
+"link": "https://goo.gl/maps/3uCMxoJwhz82",
+"lat": 37.3687,
+"lng": -5.9904,
+"category": "dieren"
+},
+{
+"title": "Museo Carmen Thyssen Málaga",
+"description": "Kunstmuseum met Andalusische schilderkunst, gevestigd in een historisch paleis.",
+"image": "https://images.unsplash.com/photo-1623482338727-d132f1f03b87",
+"link": "https://goo.gl/maps/hY1AbvbdpbA2",
+"lat": 36.7200,
+"lng": -4.4216,
+"category": "museum"
+},
+{
+"title": "Tropicana Beach Club",
+"description": "Relaxte strandclub aan Playa del Cristo (Estepona) met ligbedden, lunch en loungemuziek.",
+"image": "https://images.unsplash.com/photo-1545324418-cf65718f3cbe",
+"link": "https://goo.gl/maps/q7ghjZ2xDz12",
+"lat": 36.4185,
+"lng": -5.1589,
+"category": "strand"
+},
+{
+"title": "Plaza de la Merced",
+"description": "Levendig plein in Málaga met terrasjes, markten en het geboortehuis van Picasso.",
+"image": "https://images.unsplash.com/photo-1656781672340-90df0e92a47b",
+"link": "https://goo.gl/maps/NkMtrw6oY3B2",
+"lat": 36.7235,
+"lng": -4.4176,
+"category": "plein"
+},
+{
+"title": "Baños Árabes Córdoba",
+"description": "Heropgebouwde Moorse baden met massages en thermale beleving in historische stijl.",
+"image": "https://images.unsplash.com/photo-1611605692219-2e9e39fe4a04",
+"link": "https://goo.gl/maps/k2m5pmX1Prk",
+"lat": 37.8821,
+"lng": -4.7749,
+"category": "wellness"
+},
+{
+"title": "Alameda Principal Málaga",
+"description": "Brede boulevard met oude bomen, statige panden en verbinding tussen haven en centrum.",
+"image": "https://images.unsplash.com/photo-1623310642546-c5f4e6b8bd1a",
+"link": "https://goo.gl/maps/SJeWWYwdkEnA2XAd7",
+"lat": 36.7162,
+"lng": -4.4231,
+"category": "straat"
+},
+{
+"title": "El Rastro de Córdoba",
+"description": "Zondagse vlooienmarkt met antiek, muziek en Spaanse snuisterijen in de wijk Arenal.",
+"image": "https://images.unsplash.com/photo-1602664863214-df688d63cf40",
+"link": "https://goo.gl/maps/jPoG4oE8Kv92",
+"lat": 37.8842,
+"lng": -4.7827,
+"category": "markt"
+},
+{
+"title": "Fuengirola Street Art Walk",
+"description": "Wandeling langs kleurrijke murals door het centrum van Fuengirola – verrassend artistiek.",
+"image": "https://images.unsplash.com/photo-1600705858752-58fa02f6c539",
+"link": "https://goo.gl/maps/wAJav47XWrM2",
+"lat": 36.5445,
+"lng": -4.6246,
+"category": "kunst"
+},
+{
+"title": "Mijas Pueblo Mirador",
+"description": "Uitzichtpunt in het witte bergdorp Mijas Pueblo met zicht over de kustlijn van de Costa del Sol.",
+"image": "https://images.unsplash.com/photo-1547149600-6b14de0bc114",
+"link": "https://goo.gl/maps/3Yq6hsLsXeq",
+"lat": 36.5961,
+"lng": -4.6375,
+"category": "uitzicht"
+},
+{
 "title": "Playa de Bolonia",
 "description": "Afgelegen strand bij Tarifa met duinen, ruïnes van Baelo Claudia en azuurblauw water.",
 "image": "https://images.unsplash.com/photo-1595341386639-f8be173fb5dc",
