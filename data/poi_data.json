@@ -1,5 +1,95 @@
 [
 {
+"title": "Tetería Palacio Nazarí",
+"description": "Sfeervolle Arabische theetuin in Granada met uitzicht op de Alhambra en uitgebreide theekaart.",
+"image": "https://images.unsplash.com/photo-1617701402073-ffb71a2ba996",
+"link": "https://goo.gl/maps/jJLYwVZTfKbhnKcL6",
+"lat": 37.1804,
+"lng": -3.5897,
+"category": "thee"
+},
+{
+"title": "La Tetería del Bañuelo",
+"description": "Authentieke theehuis aan de voet van het Albaicín met tapas, shisha en uitzicht op de Sierra Nevada.",
+"image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6",
+"link": "https://goo.gl/maps/N9PMPq3WxgEWBzv47",
+"lat": 37.1812,
+"lng": -3.5923,
+"category": "thee"
+},
+{
+"title": "El Balcón de la Bahía",
+"description": "Tapasrestaurant met uitzicht op de baai van Algeciras en zicht op de rots van Gibraltar.",
+"image": "https://images.unsplash.com/photo-1585238341989-1bcadfd5f261",
+"link": "https://goo.gl/maps/tx5uwgqth7z6NRQZ7",
+"lat": 36.1346,
+"lng": -5.4504,
+"category": "diner"
+},
+{
+"title": "Ronda Brug",
+"description": "De iconische Puente Nuevo over de El Tajo kloof in Ronda – indrukwekkende must-see in Andalusië.",
+"image": "https://images.unsplash.com/photo-1601890962844-52d3de9a5e6e",
+"link": "https://goo.gl/maps/3ZPfkhRbXMoLJWNXA",
+"lat": 36.7416,
+"lng": -5.1669,
+"category": "sight"
+},
+{
+"title": "Triana Sevilla",
+"description": "Kleurrijke volkswijk aan de overkant van de rivier, bekend om keramiek, tapas en flamenco.",
+"image": "https://images.unsplash.com/photo-1615462006814-8a9ebec1b7bb",
+"link": "https://goo.gl/maps/2YB1vhKNbVApVz3R6",
+"lat": 37.3835,
+"lng": -6.0031,
+"category": "wijk"
+},
+{
+"title": "Jardín Botánico La Concepción",
+"description": "Tropische botanische tuin in Málaga met watervallen, uitzichtpunten en eeuwenoude bomen.",
+"image": "https://images.unsplash.com/photo-1589981456511-92ff7cdb4cf3",
+"link": "https://goo.gl/maps/eqcC1P1nFqkxzNwy6",
+"lat": 36.7439,
+"lng": -4.4441,
+"category": "natuur"
+},
+{
+"title": "Gibraltar Skywalk",
+"description": "Glazen uitkijkplatform op de rots van Gibraltar, met panoramisch uitzicht over de zee.",
+"image": "https://images.unsplash.com/photo-1624791904322-dae2343bd11f",
+"link": "https://goo.gl/maps/pUthVC9NvFr4ZcNTA",
+"lat": 36.1331,
+"lng": -5.3491,
+"category": "sight"
+},
+{
+"title": "Mercado de Triana",
+"description": "Overdekte markt in de wijk Triana (Sevilla) met lokale producten, bars en authentieke sfeer.",
+"image": "https://images.unsplash.com/photo-1623227516187-5e44e60cf399",
+"link": "https://goo.gl/maps/Zpda9G7JS5Tfq8H47",
+"lat": 37.3837,
+"lng": -6.0035,
+"category": "markt"
+},
+{
+"title": "Tetería Kasbah",
+"description": "Marokkaans geïnspireerde theehuis in het hart van Córdoba met mozaïekbanken en muntdrankjes.",
+"image": "https://images.unsplash.com/photo-1585841714411-979c0d8d462c",
+"link": "https://goo.gl/maps/nGBu9a6P5SoR5jkG7",
+"lat": 37.8848,
+"lng": -4.7761,
+"category": "thee"
+},
+{
+"title": "Patio de los Naranjos",
+"description": "Binnenhof van de Mezquita in Córdoba, omgeven door sinaasappelbomen en fonteinen.",
+"image": "https://images.unsplash.com/photo-1626016788683-5b758df3ba00",
+"link": "https://goo.gl/maps/5YXaLLCCcKM1c9jv5",
+"lat": 37.8792,
+"lng": -4.7794,
+"category": "sight"
+},
+{
 "title": "Alcazaba de Málaga",
 "description": "Moorse vesting in het centrum van Málaga met uitzicht over de haven en toegang tot het Romeins theater.",
 "image": "https://images.unsplash.com/photo-1601553579437-e0b63bc6276a",
