@@ -1,5 +1,95 @@
 [
 {
+"title": "Avenida del Mar Marbella",
+"description": "Luxe wandelboulevard met Dalí-beelden, fonteinen en uitzicht op zee.",
+"image": "https://images.unsplash.com/photo-1627579807789-88511e3c620e",
+"link": "https://goo.gl/maps/ccBiUJgyPBvZJRDf6",
+"lat": 36.5098,
+"lng": -4.8862,
+"category": "wandelen"
+},
+{
+"title": "Museo de Málaga",
+"description": "Uitgebreid museum over kunst en archeologie in het oude douanegebouw.",
+"image": "https://images.unsplash.com/photo-1589487399278-505e3a70666f",
+"link": "https://goo.gl/maps/CL8kU1iENQw2",
+"lat": 36.7190,
+"lng": -4.4195,
+"category": "museum"
+},
+{
+"title": "Paseo Marítimo Alhaurín",
+"description": "Rustig wandelpad langs de randen van het dorp met zitbankjes en zicht op de bergen.",
+"image": "https://images.unsplash.com/photo-1627579810693-29431ed1d597",
+"link": "https://goo.gl/maps/jT8kRkWcZRt",
+"lat": 36.6430,
+"lng": -4.6839,
+"category": "wandelen"
+},
+{
+"title": "Mercado Victoria Córdoba",
+"description": "Hip foodhall in een kasachtig gebouw met cocktails, paella en lokale specialiteiten.",
+"image": "https://images.unsplash.com/photo-1543770700-392798c2c99a",
+"link": "https://goo.gl/maps/VchQAXPV1MJ2",
+"lat": 37.8811,
+"lng": -4.7804,
+"category": "markt"
+},
+{
+"title": "Playa de la Malagueta",
+"description": "Stadsstrand van Málaga op loopafstand van het centrum, met chiringuitos en verhuur.",
+"image": "https://images.unsplash.com/photo-1586216585781-cfdc17f7a3b6",
+"link": "https://goo.gl/maps/WFFCDMXkZxK2",
+"lat": 36.7170,
+"lng": -4.4042,
+"category": "strand"
+},
+{
+"title": "Parque de la Paloma",
+"description": "Ruim stadspark in Benalmádena met dieren, vijvers en veel groen.",
+"image": "https://images.unsplash.com/photo-1594989943575-2d6b6db7c13c",
+"link": "https://goo.gl/maps/Sb2SzgrnQKK2",
+"lat": 36.5971,
+"lng": -4.5277,
+"category": "park"
+},
+{
+"title": "La Canasta",
+"description": "Bakkerij & café met Andalusische broodjes, ontbijtformules en lokale sfeer.",
+"image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b",
+"link": "https://goo.gl/maps/RzKKDpQayDT2",
+"lat": 36.7206,
+"lng": -4.4208,
+"category": "ontbijt"
+},
+{
+"title": "Castillo Sohail Festival",
+"description": "Zomers muziekfestival in het kasteel van Fuengirola – intiem en sfeervol.",
+"image": "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68",
+"link": "https://goo.gl/maps/m9RrF2zqfkr",
+"lat": 36.5289,
+"lng": -4.6251,
+"category": "muziek"
+},
+{
+"title": "Puerto de Málaga",
+"description": "Cruisehaven met wandelpromenade, winkeltjes en verbinding naar het stadscentrum.",
+"image": "https://images.unsplash.com/photo-1602417523124-9dcf45ec338d",
+"link": "https://goo.gl/maps/CTx7PNWXbLk",
+"lat": 36.7158,
+"lng": -4.4158,
+"category": "haven"
+},
+{
+"title": "Café de Estraperlo",
+"description": "Klein koffiehuisje in Málaga met boekenkasten, vintage inrichting en vegan opties.",
+"image": "https://images.unsplash.com/photo-1590086782792-cfbb54f2075e",
+"link": "https://goo.gl/maps/pzr5pLvcVj52",
+"lat": 36.7223,
+"lng": -4.4167,
+"category": "ontbijt"
+},
+{
 "title": "Ermita del Calvario",
 "description": "Rustige kapel boven Alhaurín el Grande met wandelpad en panoramisch uitzicht.",
 "image": "https://images.unsplash.com/photo-1620663452919-d2b7f89bcdf3",
