@@ -1,5 +1,95 @@
 [
 {
+"title": "Playa de Bolonia",
+"description": "Afgelegen strand bij Tarifa met duinen, ruïnes van Baelo Claudia en azuurblauw water.",
+"image": "https://images.unsplash.com/photo-1595341386639-f8be173fb5dc",
+"link": "https://goo.gl/maps/rRuDJHQXDURoG8i18",
+"lat": 36.0836,
+"lng": -5.7704,
+"category": "strand"
+},
+{
+"title": "Castillo de Gibralfaro",
+"description": "Burcht boven Málaga met uitzicht op de haven, verbonden met de Alcazaba via een muurpad.",
+"image": "https://images.unsplash.com/photo-1563282647-dacfd38053b0",
+"link": "https://goo.gl/maps/yHGCo37Kgz2T51nm7",
+"lat": 36.7291,
+"lng": -4.4133,
+"category": "sight"
+},
+{
+"title": "Restaurante Valparaiso",
+"description": "Klassiek restaurant met openluchtpodium, fonteinen en romantische diners in Alhaurín el Grande.",
+"image": "https://images.unsplash.com/photo-1524220516414-1e99b4434e6f",
+"link": "https://goo.gl/maps/MkJJe4vxj2n7pHhe6",
+"lat": 36.6405,
+"lng": -4.6850,
+"category": "diner"
+},
+{
+"title": "Jardines de la Alhambra",
+"description": "De Generalife-tuinen rond het Alhambra: bloeiende patio’s, fonteinen en Moorse architectuur.",
+"image": "https://images.unsplash.com/photo-1549910303-603a5e7e0f7c",
+"link": "https://goo.gl/maps/hBGznqKZ6mp19UNi6",
+"lat": 37.1761,
+"lng": -3.5840,
+"category": "natuur"
+},
+{
+"title": "Hammam Al Ándalus Málaga",
+"description": "Arabisch badhuis met warme baden, massages en een betoverende sfeer in het centrum van Málaga.",
+"image": "https://images.unsplash.com/photo-1603575448372-b69c3e27e13a",
+"link": "https://goo.gl/maps/m9gRfFgDEJ2XTxvg9",
+"lat": 36.7219,
+"lng": -4.4190,
+"category": "wellness"
+},
+{
+"title": "Mariposario de Benalmádena",
+"description": "Tropische vlindertuin met honderden soorten vlinders en een kleine Aziatische tempel.",
+"image": "https://images.unsplash.com/photo-1554118811-1e7d9564c9a6",
+"link": "https://goo.gl/maps/FhCipzAKUAFUMmBC9",
+"lat": 36.6051,
+"lng": -4.5687,
+"category": "dieren"
+},
+{
+"title": "Calle Larios",
+"description": "De bekendste winkelstraat van Málaga met elegante architectuur en verlichting tijdens de feestdagen.",
+"image": "https://images.unsplash.com/photo-1623083756963-beb85d43bd5e",
+"link": "https://goo.gl/maps/SNbKcgztBzB2",
+"lat": 36.7205,
+"lng": -4.4211,
+"category": "winkelen"
+},
+{
+"title": "Gibraltar Nature Reserve",
+"description": "Natuurreservaat op de rots van Gibraltar met wandelroutes, apen en het uitzichtpunt O'Hara's Battery.",
+"image": "https://images.unsplash.com/photo-1575365606022-1d3bb012dd5b",
+"link": "https://goo.gl/maps/C3Rp9eBNqzJ2",
+"lat": 36.1323,
+"lng": -5.3432,
+"category": "natuur"
+},
+{
+"title": "La Térmica Málaga",
+"description": "Cultureel centrum in Málaga met wisselende exposities, marktjes en evenementen over design & lifestyle.",
+"image": "https://images.unsplash.com/photo-1617208578261-11d0742ec5fc",
+"link": "https://goo.gl/maps/sMujLK5NaC6FVYKM6",
+"lat": 36.7071,
+"lng": -4.4478,
+"category": "kunst"
+},
+{
+"title": "Cueva de Nerja",
+"description": "Imposante druipsteengrotten met lichtshows, muurschilderingen en ondergrondse concerten.",
+"image": "https://images.unsplash.com/photo-1589981456471-c5d01e646f6d",
+"link": "https://goo.gl/maps/fzzYdTLZbx2eTCFV9",
+"lat": 36.7484,
+"lng": -3.8706,
+"category": "sight"
+},
+{
 "title": "Tetería Palacio Nazarí",
 "description": "Sfeervolle Arabische theetuin in Granada met uitzicht op de Alhambra en uitgebreide theekaart.",
 "image": "https://images.unsplash.com/photo-1617701402073-ffb71a2ba996",
