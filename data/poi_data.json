@@ -1,5 +1,95 @@
 [
 {
+"title": "Alcazaba de Málaga",
+"description": "Moorse vesting in het centrum van Málaga met uitzicht over de haven en toegang tot het Romeins theater.",
+"image": "https://images.unsplash.com/photo-1601553579437-e0b63bc6276a",
+"link": "https://goo.gl/maps/3cq89LqojPM9MQ4G6",
+"lat": 36.7218,
+"lng": -4.4141,
+"category": "sight"
+},
+{
+"title": "Pompidou Málaga",
+"description": "Modern kunstmuseum in een kleurrijke kubus aan Muelle Uno met tijdelijke tentoonstellingen.",
+"image": "https://images.unsplash.com/photo-1559742811-fdf6f234d911",
+"link": "https://goo.gl/maps/Heu9nWRHgR8TLjAT6",
+"lat": 36.7157,
+"lng": -4.4132,
+"category": "museum"
+},
+{
+"title": "Café con Libros",
+"description": "Literair café aan Plaza de la Merced met koffie, boeken en vegan taartjes.",
+"image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+"link": "https://goo.gl/maps/HLWQjv7yzW8RwvBz5",
+"lat": 36.7234,
+"lng": -4.4157,
+"category": "ontbijt"
+},
+{
+"title": "Restaurante Santiago’s Kitchen",
+"description": "Culinair pareltje in Alhaurín el Grande met tuinsetting en fine dining menu.",
+"image": "https://images.unsplash.com/photo-1582450045273-d544ee90d53b",
+"link": "https://goo.gl/maps/FFCmC4n56dj9LFBN8",
+"lat": 36.6374,
+"lng": -4.6856,
+"category": "diner"
+},
+{
+"title": "Setenil de las Bodegas",
+"description": "Uniek dorpje met witte huizen gebouwd onder en in de rotsen, gelegen in de provincie Cádiz.",
+"image": "https://images.unsplash.com/photo-1630493257055-2e9585a09a3f",
+"link": "https://goo.gl/maps/pgzyaVkRUgmnpwYB6",
+"lat": 36.8617,
+"lng": -5.1802,
+"category": "sight"
+},
+{
+"title": "Raften Río Genil",
+"description": "Actieve excursie met gids over de rivier de Genil – adrenaline en prachtig landschap gegarandeerd.",
+"image": "https://images.unsplash.com/photo-1566740933432-0ce9b4dca79b",
+"link": "https://goo.gl/maps/xq8xQtxbqZ7MQ5tN7",
+"lat": 37.2658,
+"lng": -4.7065,
+"category": "activiteit"
+},
+{
+"title": "La Bella Julieta",
+"description": "Hip koffieconcept in Málaga met uitstekende koffie, sandwiches en Instagram-proof interieur.",
+"image": "https://images.unsplash.com/photo-1598514982343-6a331a253f3d",
+"link": "https://goo.gl/maps/H2TxU2sRcCrCbRY39",
+"lat": 36.7185,
+"lng": -4.4235,
+"category": "ontbijt"
+},
+{
+"title": "Puerto Banús",
+"description": "Chique jachthaven van Marbella, bekend om luxe jachten, designerwinkels en boulevard.",
+"image": "https://images.unsplash.com/photo-1579546928681-b076ef5f1d05",
+"link": "https://goo.gl/maps/DcZMzEevQnUe7dT57",
+"lat": 36.4859,
+"lng": -4.9524,
+"category": "sight"
+},
+{
+"title": "Lobo Park",
+"description": "Wolvenreservaat bij Antequera waar je op educatieve wijze kennismaakt met verschillende wolvensoorten.",
+"image": "https://images.unsplash.com/photo-1603720189644-df2c54da0ed4",
+"link": "https://goo.gl/maps/Zx3dVqzhznr1wM1o8",
+"lat": 37.0075,
+"lng": -4.5728,
+"category": "activiteit"
+},
+{
+"title": "Balcon de Europa",
+"description": "Uitzichtpunt in Nerja op een klif boven zee met panoramisch uitzicht over de Middellandse Zee.",
+"image": "https://images.unsplash.com/photo-1627319722947-f67cf047272f",
+"link": "https://goo.gl/maps/BF3ugzN4ZV2kKxw98",
+"lat": 36.7437,
+"lng": -3.8755,
+"category": "sight"
+},
+{
 "title": "Plaza de España",
 "description": "Spectaculair plein in Sevilla met halfronde gebouwen, kanalen en bruggetjes. Filmlocatie van Star Wars.",
 "image": "https://images.unsplash.com/photo-1601202902211-6e3c49deeb6e",
