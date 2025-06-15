@@ -1,5 +1,95 @@
 [
 {
+"title": "Plaza de los Naranjos",
+"description": "Historisch plein in het hart van Marbella met sinaasappelbomen en gezellige terrassen.",
+"image": "https://images.unsplash.com/photo-1629377631993-fb9e2d1adf33",
+"link": "https://goo.gl/maps/fG4gYAaGf5S2",
+"lat": 36.5104,
+"lng": -4.8854,
+"category": "plein"
+},
+{
+"title": "Río Chillar Hike",
+"description": "Verfrissende wandeling door een rivierbedding in Nerja met watervallen en kloven.",
+"image": "https://images.unsplash.com/photo-1586363104866-ec2e2d5fa54a",
+"link": "https://goo.gl/maps/NoXtBZQ3N2G2",
+"lat": 36.7724,
+"lng": -3.8698,
+"category": "hike"
+},
+{
+"title": "Bar Lola",
+"description": "Populaire tapasbar in Tarifa met creatieve hapjes en bruisende sfeer in smal straatje.",
+"image": "https://images.unsplash.com/photo-1616030906037-6a68d0c7a872",
+"link": "https://goo.gl/maps/ZvnAqxgPRzF2",
+"lat": 36.0133,
+"lng": -5.6021,
+"category": "diner"
+},
+{
+"title": "Museo del Vidrio y Cristal",
+"description": "Klein museum in Málaga over glas, glas-in-lood en kristal in een antiek pand.",
+"image": "https://images.unsplash.com/photo-1606651112593-c03b7d4ff52a",
+"link": "https://goo.gl/maps/PwG1e37NMP82",
+"lat": 36.7232,
+"lng": -4.4234,
+"category": "museum"
+},
+{
+"title": "Torcal de Antequera",
+"description": "Bizar kalkstenen natuurgebied met grillige rotsformaties, gieren en wandelroutes.",
+"image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0",
+"link": "https://goo.gl/maps/hqMk6pF7rPz",
+"lat": 36.9533,
+"lng": -4.5448,
+"category": "natuur"
+},
+{
+"title": "Cueva del Gato",
+"description": "Natuurzwembad in een grot bij Benaoján met turquoise water en grotingang.",
+"image": "https://images.unsplash.com/photo-1527718641255-3241cd83df2c",
+"link": "https://goo.gl/maps/JY9zP9r5zn62",
+"lat": 36.7371,
+"lng": -5.2842,
+"category": "zwemmen"
+},
+{
+"title": "Café Central Málaga",
+"description": "Historisch café op Plaza de la Constitución met eigen koffietaalsysteem.",
+"image": "https://images.unsplash.com/photo-1524220516414-1e99b4434e6f",
+"link": "https://goo.gl/maps/ErPBu3mb1Fs",
+"lat": 36.7201,
+"lng": -4.4213,
+"category": "koffie"
+},
+{
+"title": "Gibraltar Cable Car",
+"description": "Kabelbaan naar de top van de Rots van Gibraltar – snelle route naar het uitzicht en de apen.",
+"image": "https://images.unsplash.com/photo-1601904362290-930cc2c031df",
+"link": "https://goo.gl/maps/G6f6duK9AyF2",
+"lat": 36.1389,
+"lng": -5.3533,
+"category": "activiteit"
+},
+{
+"title": "Restaurante Arriate",
+"description": "Authentiek Spaans restaurant buiten Ronda met lokale gerechten en gemoedelijke sfeer.",
+"image": "https://images.unsplash.com/photo-1572715372562-0d2411b48841",
+"link": "https://goo.gl/maps/XhBrn4kR4J52",
+"lat": 36.7604,
+"lng": -5.1518,
+"category": "diner"
+},
+{
+"title": "Jardín Botánico El Retiro",
+"description": "Oudste botanische tuin van Spanje, gelegen in Churriana – tropisch, stil en vol vogels.",
+"image": "https://images.unsplash.com/photo-1617701402073-ffb71a2ba996",
+"link": "https://goo.gl/maps/fS3CUpGGAVp",
+"lat": 36.6562,
+"lng": -4.4998,
+"category": "natuur"
+},
+{
 "title": "Avenida del Mar Marbella",
 "description": "Luxe wandelboulevard met Dalí-beelden, fonteinen en uitzicht op zee.",
 "image": "https://images.unsplash.com/photo-1627579807789-88511e3c620e",
