@@ -1,731 +1,802 @@
 [
-{
-"title": "Plaza de los Naranjos",
-"description": "Historisch plein in het hart van Marbella met sinaasappelbomen en gezellige terrassen.",
-"image": "https://images.unsplash.com/photo-1629377631993-fb9e2d1adf33",
-"link": "https://goo.gl/maps/fG4gYAaGf5S2",
-"lat": 36.5104,
-"lng": -4.8854,
-"category": "plein"
-},
-{
-"title": "Río Chillar Hike",
-"description": "Verfrissende wandeling door een rivierbedding in Nerja met watervallen en kloven.",
-"image": "https://images.unsplash.com/photo-1586363104866-ec2e2d5fa54a",
-"link": "https://goo.gl/maps/NoXtBZQ3N2G2",
-"lat": 36.7724,
-"lng": -3.8698,
-"category": "hike"
-},
-{
-"title": "Bar Lola",
-"description": "Populaire tapasbar in Tarifa met creatieve hapjes en bruisende sfeer in smal straatje.",
-"image": "https://images.unsplash.com/photo-1616030906037-6a68d0c7a872",
-"link": "https://goo.gl/maps/ZvnAqxgPRzF2",
-"lat": 36.0133,
-"lng": -5.6021,
-"category": "diner"
-},
-{
-"title": "Museo del Vidrio y Cristal",
-"description": "Klein museum in Málaga over glas, glas-in-lood en kristal in een antiek pand.",
-"image": "https://images.unsplash.com/photo-1606651112593-c03b7d4ff52a",
-"link": "https://goo.gl/maps/PwG1e37NMP82",
-"lat": 36.7232,
-"lng": -4.4234,
-"category": "museum"
-},
-{
-"title": "Torcal de Antequera",
-"description": "Bizar kalkstenen natuurgebied met grillige rotsformaties, gieren en wandelroutes.",
-"image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0",
-"link": "https://goo.gl/maps/hqMk6pF7rPz",
-"lat": 36.9533,
-"lng": -4.5448,
-"category": "natuur"
-},
-{
-"title": "Cueva del Gato",
-"description": "Natuurzwembad in een grot bij Benaoján met turquoise water en grotingang.",
-"image": "https://images.unsplash.com/photo-1527718641255-3241cd83df2c",
-"link": "https://goo.gl/maps/JY9zP9r5zn62",
-"lat": 36.7371,
-"lng": -5.2842,
-"category": "zwemmen"
-},
-{
-"title": "Café Central Málaga",
-"description": "Historisch café op Plaza de la Constitución met eigen koffietaalsysteem.",
-"image": "https://images.unsplash.com/photo-1524220516414-1e99b4434e6f",
-"link": "https://goo.gl/maps/ErPBu3mb1Fs",
-"lat": 36.7201,
-"lng": -4.4213,
-"category": "koffie"
-},
-{
-"title": "Gibraltar Cable Car",
-"description": "Kabelbaan naar de top van de Rots van Gibraltar – snelle route naar het uitzicht en de apen.",
-"image": "https://images.unsplash.com/photo-1601904362290-930cc2c031df",
-"link": "https://goo.gl/maps/G6f6duK9AyF2",
-"lat": 36.1389,
-"lng": -5.3533,
-"category": "activiteit"
-},
-{
-"title": "Restaurante Arriate",
-"description": "Authentiek Spaans restaurant buiten Ronda met lokale gerechten en gemoedelijke sfeer.",
-"image": "https://images.unsplash.com/photo-1572715372562-0d2411b48841",
-"link": "https://goo.gl/maps/XhBrn4kR4J52",
-"lat": 36.7604,
-"lng": -5.1518,
-"category": "diner"
-},
-{
-"title": "Jardín Botánico El Retiro",
-"description": "Oudste botanische tuin van Spanje, gelegen in Churriana – tropisch, stil en vol vogels.",
-"image": "https://images.unsplash.com/photo-1617701402073-ffb71a2ba996",
-"link": "https://goo.gl/maps/fS3CUpGGAVp",
-"lat": 36.6562,
-"lng": -4.4998,
-"category": "natuur"
-},
-{
-"title": "Avenida del Mar Marbella",
-"description": "Luxe wandelboulevard met Dalí-beelden, fonteinen en uitzicht op zee.",
-"image": "https://images.unsplash.com/photo-1627579807789-88511e3c620e",
-"link": "https://goo.gl/maps/ccBiUJgyPBvZJRDf6",
-"lat": 36.5098,
-"lng": -4.8862,
-"category": "wandelen"
-},
-{
-"title": "Museo de Málaga",
-"description": "Uitgebreid museum over kunst en archeologie in het oude douanegebouw.",
-"image": "https://images.unsplash.com/photo-1589487399278-505e3a70666f",
-"link": "https://goo.gl/maps/CL8kU1iENQw2",
-"lat": 36.7190,
-"lng": -4.4195,
-"category": "museum"
-},
-{
-"title": "Paseo Marítimo Alhaurín",
-"description": "Rustig wandelpad langs de randen van het dorp met zitbankjes en zicht op de bergen.",
-"image": "https://images.unsplash.com/photo-1627579810693-29431ed1d597",
-"link": "https://goo.gl/maps/jT8kRkWcZRt",
-"lat": 36.6430,
-"lng": -4.6839,
-"category": "wandelen"
-},
-{
-"title": "Mercado Victoria Córdoba",
-"description": "Hip foodhall in een kasachtig gebouw met cocktails, paella en lokale specialiteiten.",
-"image": "https://images.unsplash.com/photo-1543770700-392798c2c99a",
-"link": "https://goo.gl/maps/VchQAXPV1MJ2",
-"lat": 37.8811,
-"lng": -4.7804,
-"category": "markt"
-},
-{
-"title": "Playa de la Malagueta",
-"description": "Stadsstrand van Málaga op loopafstand van het centrum, met chiringuitos en verhuur.",
-"image": "https://images.unsplash.com/photo-1586216585781-cfdc17f7a3b6",
-"link": "https://goo.gl/maps/WFFCDMXkZxK2",
-"lat": 36.7170,
-"lng": -4.4042,
-"category": "strand"
-},
-{
-"title": "Parque de la Paloma",
-"description": "Ruim stadspark in Benalmádena met dieren, vijvers en veel groen.",
-"image": "https://images.unsplash.com/photo-1594989943575-2d6b6db7c13c",
-"link": "https://goo.gl/maps/Sb2SzgrnQKK2",
-"lat": 36.5971,
-"lng": -4.5277,
-"category": "park"
-},
-{
-"title": "La Canasta",
-"description": "Bakkerij & café met Andalusische broodjes, ontbijtformules en lokale sfeer.",
-"image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b",
-"link": "https://goo.gl/maps/RzKKDpQayDT2",
-"lat": 36.7206,
-"lng": -4.4208,
-"category": "ontbijt"
-},
-{
-"title": "Castillo Sohail Festival",
-"description": "Zomers muziekfestival in het kasteel van Fuengirola – intiem en sfeervol.",
-"image": "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68",
-"link": "https://goo.gl/maps/m9RrF2zqfkr",
-"lat": 36.5289,
-"lng": -4.6251,
-"category": "muziek"
-},
-{
-"title": "Puerto de Málaga",
-"description": "Cruisehaven met wandelpromenade, winkeltjes en verbinding naar het stadscentrum.",
-"image": "https://images.unsplash.com/photo-1602417523124-9dcf45ec338d",
-"link": "https://goo.gl/maps/CTx7PNWXbLk",
-"lat": 36.7158,
-"lng": -4.4158,
-"category": "haven"
-},
-{
-"title": "Café de Estraperlo",
-"description": "Klein koffiehuisje in Málaga met boekenkasten, vintage inrichting en vegan opties.",
-"image": "https://images.unsplash.com/photo-1590086782792-cfbb54f2075e",
-"link": "https://goo.gl/maps/pzr5pLvcVj52",
-"lat": 36.7223,
-"lng": -4.4167,
-"category": "ontbijt"
-},
-{
-"title": "Ermita del Calvario",
-"description": "Rustige kapel boven Alhaurín el Grande met wandelpad en panoramisch uitzicht.",
-"image": "https://images.unsplash.com/photo-1620663452919-d2b7f89bcdf3",
-"link": "https://goo.gl/maps/j3Yo5AxwFzXw2X6s8",
-"lat": 36.6511,
-"lng": -4.6778,
-"category": "uitzicht"
-},
-{
-"title": "Bar Picasso",
-"description": "Klassiek tapasrestaurant aan het strand van Torremolinos, populair bij locals.",
-"image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1",
-"link": "https://goo.gl/maps/2FrGDqPCpMyBQyVv9",
-"lat": 36.6212,
-"lng": -4.4994,
-"category": "diner"
-},
-{
-"title": "Sohail Castle",
-"description": "Moorse vesting aan de kust van Fuengirola, nu gebruikt voor openluchtevenementen.",
-"image": "https://images.unsplash.com/photo-1608587239703-84f0b1eb7cfb",
-"link": "https://goo.gl/maps/tMM1FnEm3AhPxChK9",
-"lat": 36.5289,
-"lng": -4.6251,
-"category": "sight"
-},
-{
-"title": "Torre del Mar Promenade",
-"description": "Lange boulevard met palmbomen, strandbars en fietspad langs de kust bij Vélez-Málaga.",
-"image": "https://images.unsplash.com/photo-1560244178-c8f733dd230b",
-"link": "https://goo.gl/maps/Vb1J6TXnKm52",
-"lat": 36.7379,
-"lng": -4.0964,
-"category": "wandelen"
-},
-{
-"title": "Chiringuito El Cachalote",
-"description": "Visrestaurant direct op het strand van Málaga met verse sardientjes en zeezicht.",
-"image": "https://images.unsplash.com/photo-1584680226838-75b70f4b52e6",
-"link": "https://goo.gl/maps/YGpG5yYY5qR6Pvhv8",
-"lat": 36.7132,
-"lng": -4.3995,
-"category": "diner"
-},
-{
-"title": "Albaicín Granada",
-"description": "Witte wijk met smalle straatjes, theehuisjes en uitzicht op het Alhambra – vol historie.",
-"image": "https://images.unsplash.com/photo-1599396640955-5e6a2b7d3e9a",
-"link": "https://goo.gl/maps/KRxkiivU5VU2",
-"lat": 37.1811,
-"lng": -3.5945,
-"category": "wijk"
-},
-{
-"title": "Larios Centro",
-"description": "Modern winkelcentrum in Málaga vlakbij het busstation, met Zara, Mango en foodcourt.",
-"image": "https://images.unsplash.com/photo-1555529964-69e7c4a16d0b",
-"link": "https://goo.gl/maps/d5R88jBYUtGpZTLg8",
-"lat": 36.7145,
-"lng": -4.4323,
-"category": "winkelen"
-},
-{
-"title": "Mirador del Estrecho",
-"description": "Spectaculair uitzichtpunt bij Tarifa met zicht op Afrika op heldere dagen.",
-"image": "https://images.unsplash.com/photo-1618343365032-6aebc4d7928d",
-"link": "https://goo.gl/maps/z3rNexyx2EU2",
-"lat": 36.0099,
-"lng": -5.5875,
-"category": "uitzicht"
-},
-{
-"title": "Plaza de Toros Ronda",
-"description": "Eén van de oudste arena’s van Spanje, nu ook museum over stierenvechten en paarden.",
-"image": "https://images.unsplash.com/photo-1545911255-7d36aab2d7a3",
-"link": "https://goo.gl/maps/c9XRY4MCtJ62",
-"lat": 36.7411,
-"lng": -5.1662,
-"category": "cultuur"
-},
-{
-"title": "Restaurante La Molienda",
-"description": "Populaire ontbijtspot in Málaga met specialty coffee, tostadas en een rustige binnenplaats.",
-"image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
-"link": "https://goo.gl/maps/2snR5W2nZzH2",
-"lat": 36.7189,
-"lng": -4.4210,
-"category": "ontbijt"
-},
-{
-"title": "Castillo de Colomares",
-"description": "Sprookjesachtig monument ter ere van Columbus in Benalmádena, met torens en symboliek.",
-"image": "https://images.unsplash.com/photo-1609339072185-1a6841663b6e",
-"link": "https://goo.gl/maps/Koe7BPy8DuG2",
-"lat": 36.5967,
-"lng": -4.5692,
-"category": "sight"
-},
-{
-"title": "Acuario de Sevilla",
-"description": "Modern aquarium in Sevilla met zeeschildpadden, tropische vissen en educatieve installaties.",
-"image": "https://images.unsplash.com/photo-1580116194362-24c5e7e65f32",
-"link": "https://goo.gl/maps/3uCMxoJwhz82",
-"lat": 37.3687,
-"lng": -5.9904,
-"category": "dieren"
-},
-{
-"title": "Museo Carmen Thyssen Málaga",
-"description": "Kunstmuseum met Andalusische schilderkunst, gevestigd in een historisch paleis.",
-"image": "https://images.unsplash.com/photo-1623482338727-d132f1f03b87",
-"link": "https://goo.gl/maps/hY1AbvbdpbA2",
-"lat": 36.7200,
-"lng": -4.4216,
-"category": "museum"
-},
-{
-"title": "Tropicana Beach Club",
-"description": "Relaxte strandclub aan Playa del Cristo (Estepona) met ligbedden, lunch en loungemuziek.",
-"image": "https://images.unsplash.com/photo-1545324418-cf65718f3cbe",
-"link": "https://goo.gl/maps/q7ghjZ2xDz12",
-"lat": 36.4185,
-"lng": -5.1589,
-"category": "strand"
-},
-{
-"title": "Plaza de la Merced",
-"description": "Levendig plein in Málaga met terrasjes, markten en het geboortehuis van Picasso.",
-"image": "https://images.unsplash.com/photo-1656781672340-90df0e92a47b",
-"link": "https://goo.gl/maps/NkMtrw6oY3B2",
-"lat": 36.7235,
-"lng": -4.4176,
-"category": "plein"
-},
-{
-"title": "Baños Árabes Córdoba",
-"description": "Heropgebouwde Moorse baden met massages en thermale beleving in historische stijl.",
-"image": "https://images.unsplash.com/photo-1611605692219-2e9e39fe4a04",
-"link": "https://goo.gl/maps/k2m5pmX1Prk",
-"lat": 37.8821,
-"lng": -4.7749,
-"category": "wellness"
-},
-{
-"title": "Alameda Principal Málaga",
-"description": "Brede boulevard met oude bomen, statige panden en verbinding tussen haven en centrum.",
-"image": "https://images.unsplash.com/photo-1623310642546-c5f4e6b8bd1a",
-"link": "https://goo.gl/maps/SJeWWYwdkEnA2XAd7",
-"lat": 36.7162,
-"lng": -4.4231,
-"category": "straat"
-},
-{
-"title": "El Rastro de Córdoba",
-"description": "Zondagse vlooienmarkt met antiek, muziek en Spaanse snuisterijen in de wijk Arenal.",
-"image": "https://images.unsplash.com/photo-1602664863214-df688d63cf40",
-"link": "https://goo.gl/maps/jPoG4oE8Kv92",
-"lat": 37.8842,
-"lng": -4.7827,
-"category": "markt"
-},
-{
-"title": "Fuengirola Street Art Walk",
-"description": "Wandeling langs kleurrijke murals door het centrum van Fuengirola – verrassend artistiek.",
-"image": "https://images.unsplash.com/photo-1600705858752-58fa02f6c539",
-"link": "https://goo.gl/maps/wAJav47XWrM2",
-"lat": 36.5445,
-"lng": -4.6246,
-"category": "kunst"
-},
-{
-"title": "Mijas Pueblo Mirador",
-"description": "Uitzichtpunt in het witte bergdorp Mijas Pueblo met zicht over de kustlijn van de Costa del Sol.",
-"image": "https://images.unsplash.com/photo-1547149600-6b14de0bc114",
-"link": "https://goo.gl/maps/3Yq6hsLsXeq",
-"lat": 36.5961,
-"lng": -4.6375,
-"category": "uitzicht"
-},
-{
-"title": "Playa de Bolonia",
-"description": "Afgelegen strand bij Tarifa met duinen, ruïnes van Baelo Claudia en azuurblauw water.",
-"image": "https://images.unsplash.com/photo-1595341386639-f8be173fb5dc",
-"link": "https://goo.gl/maps/rRuDJHQXDURoG8i18",
-"lat": 36.0836,
-"lng": -5.7704,
-"category": "strand"
-},
-{
-"title": "Castillo de Gibralfaro",
-"description": "Burcht boven Málaga met uitzicht op de haven, verbonden met de Alcazaba via een muurpad.",
-"image": "https://images.unsplash.com/photo-1563282647-dacfd38053b0",
-"link": "https://goo.gl/maps/yHGCo37Kgz2T51nm7",
-"lat": 36.7291,
-"lng": -4.4133,
-"category": "sight"
-},
-{
-"title": "Restaurante Valparaiso",
-"description": "Klassiek restaurant met openluchtpodium, fonteinen en romantische diners in Alhaurín el Grande.",
-"image": "https://images.unsplash.com/photo-1524220516414-1e99b4434e6f",
-"link": "https://goo.gl/maps/MkJJe4vxj2n7pHhe6",
-"lat": 36.6405,
-"lng": -4.6850,
-"category": "diner"
-},
-{
-"title": "Jardines de la Alhambra",
-"description": "De Generalife-tuinen rond het Alhambra: bloeiende patio’s, fonteinen en Moorse architectuur.",
-"image": "https://images.unsplash.com/photo-1549910303-603a5e7e0f7c",
-"link": "https://goo.gl/maps/hBGznqKZ6mp19UNi6",
-"lat": 37.1761,
-"lng": -3.5840,
-"category": "natuur"
-},
-{
-"title": "Hammam Al Ándalus Málaga",
-"description": "Arabisch badhuis met warme baden, massages en een betoverende sfeer in het centrum van Málaga.",
-"image": "https://images.unsplash.com/photo-1603575448372-b69c3e27e13a",
-"link": "https://goo.gl/maps/m9gRfFgDEJ2XTxvg9",
-"lat": 36.7219,
-"lng": -4.4190,
-"category": "wellness"
-},
-{
-"title": "Mariposario de Benalmádena",
-"description": "Tropische vlindertuin met honderden soorten vlinders en een kleine Aziatische tempel.",
-"image": "https://images.unsplash.com/photo-1554118811-1e7d9564c9a6",
-"link": "https://goo.gl/maps/FhCipzAKUAFUMmBC9",
-"lat": 36.6051,
-"lng": -4.5687,
-"category": "dieren"
-},
-{
-"title": "Calle Larios",
-"description": "De bekendste winkelstraat van Málaga met elegante architectuur en verlichting tijdens de feestdagen.",
-"image": "https://images.unsplash.com/photo-1623083756963-beb85d43bd5e",
-"link": "https://goo.gl/maps/SNbKcgztBzB2",
-"lat": 36.7205,
-"lng": -4.4211,
-"category": "winkelen"
-},
-{
-"title": "Gibraltar Nature Reserve",
-"description": "Natuurreservaat op de rots van Gibraltar met wandelroutes, apen en het uitzichtpunt O'Hara's Battery.",
-"image": "https://images.unsplash.com/photo-1575365606022-1d3bb012dd5b",
-"link": "https://goo.gl/maps/C3Rp9eBNqzJ2",
-"lat": 36.1323,
-"lng": -5.3432,
-"category": "natuur"
-},
-{
-"title": "La Térmica Málaga",
-"description": "Cultureel centrum in Málaga met wisselende exposities, marktjes en evenementen over design & lifestyle.",
-"image": "https://images.unsplash.com/photo-1617208578261-11d0742ec5fc",
-"link": "https://goo.gl/maps/sMujLK5NaC6FVYKM6",
-"lat": 36.7071,
-"lng": -4.4478,
-"category": "kunst"
-},
-{
-"title": "Cueva de Nerja",
-"description": "Imposante druipsteengrotten met lichtshows, muurschilderingen en ondergrondse concerten.",
-"image": "https://images.unsplash.com/photo-1589981456471-c5d01e646f6d",
-"link": "https://goo.gl/maps/fzzYdTLZbx2eTCFV9",
-"lat": 36.7484,
-"lng": -3.8706,
-"category": "sight"
-},
-{
-"title": "Tetería Palacio Nazarí",
-"description": "Sfeervolle Arabische theetuin in Granada met uitzicht op de Alhambra en uitgebreide theekaart.",
-"image": "https://images.unsplash.com/photo-1617701402073-ffb71a2ba996",
-"link": "https://goo.gl/maps/jJLYwVZTfKbhnKcL6",
-"lat": 37.1804,
-"lng": -3.5897,
-"category": "thee"
-},
-{
-"title": "La Tetería del Bañuelo",
-"description": "Authentieke theehuis aan de voet van het Albaicín met tapas, shisha en uitzicht op de Sierra Nevada.",
-"image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6",
-"link": "https://goo.gl/maps/N9PMPq3WxgEWBzv47",
-"lat": 37.1812,
-"lng": -3.5923,
-"category": "thee"
-},
-{
-"title": "El Balcón de la Bahía",
-"description": "Tapasrestaurant met uitzicht op de baai van Algeciras en zicht op de rots van Gibraltar.",
-"image": "https://images.unsplash.com/photo-1585238341989-1bcadfd5f261",
-"link": "https://goo.gl/maps/tx5uwgqth7z6NRQZ7",
-"lat": 36.1346,
-"lng": -5.4504,
-"category": "diner"
-},
-{
-"title": "Ronda Brug",
-"description": "De iconische Puente Nuevo over de El Tajo kloof in Ronda – indrukwekkende must-see in Andalusië.",
-"image": "https://images.unsplash.com/photo-1601890962844-52d3de9a5e6e",
-"link": "https://goo.gl/maps/3ZPfkhRbXMoLJWNXA",
-"lat": 36.7416,
-"lng": -5.1669,
-"category": "sight"
-},
-{
-"title": "Triana Sevilla",
-"description": "Kleurrijke volkswijk aan de overkant van de rivier, bekend om keramiek, tapas en flamenco.",
-"image": "https://images.unsplash.com/photo-1615462006814-8a9ebec1b7bb",
-"link": "https://goo.gl/maps/2YB1vhKNbVApVz3R6",
-"lat": 37.3835,
-"lng": -6.0031,
-"category": "wijk"
-},
-{
-"title": "Jardín Botánico La Concepción",
-"description": "Tropische botanische tuin in Málaga met watervallen, uitzichtpunten en eeuwenoude bomen.",
-"image": "https://images.unsplash.com/photo-1589981456511-92ff7cdb4cf3",
-"link": "https://goo.gl/maps/eqcC1P1nFqkxzNwy6",
-"lat": 36.7439,
-"lng": -4.4441,
-"category": "natuur"
-},
-{
-"title": "Gibraltar Skywalk",
-"description": "Glazen uitkijkplatform op de rots van Gibraltar, met panoramisch uitzicht over de zee.",
-"image": "https://images.unsplash.com/photo-1624791904322-dae2343bd11f",
-"link": "https://goo.gl/maps/pUthVC9NvFr4ZcNTA",
-"lat": 36.1331,
-"lng": -5.3491,
-"category": "sight"
-},
-{
-"title": "Mercado de Triana",
-"description": "Overdekte markt in de wijk Triana (Sevilla) met lokale producten, bars en authentieke sfeer.",
-"image": "https://images.unsplash.com/photo-1623227516187-5e44e60cf399",
-"link": "https://goo.gl/maps/Zpda9G7JS5Tfq8H47",
-"lat": 37.3837,
-"lng": -6.0035,
-"category": "markt"
-},
-{
-"title": "Tetería Kasbah",
-"description": "Marokkaans geïnspireerde theehuis in het hart van Córdoba met mozaïekbanken en muntdrankjes.",
-"image": "https://images.unsplash.com/photo-1585841714411-979c0d8d462c",
-"link": "https://goo.gl/maps/nGBu9a6P5SoR5jkG7",
-"lat": 37.8848,
-"lng": -4.7761,
-"category": "thee"
-},
-{
-"title": "Patio de los Naranjos",
-"description": "Binnenhof van de Mezquita in Córdoba, omgeven door sinaasappelbomen en fonteinen.",
-"image": "https://images.unsplash.com/photo-1626016788683-5b758df3ba00",
-"link": "https://goo.gl/maps/5YXaLLCCcKM1c9jv5",
-"lat": 37.8792,
-"lng": -4.7794,
-"category": "sight"
-},
-{
-"title": "Alcazaba de Málaga",
-"description": "Moorse vesting in het centrum van Málaga met uitzicht over de haven en toegang tot het Romeins theater.",
-"image": "https://images.unsplash.com/photo-1601553579437-e0b63bc6276a",
-"link": "https://goo.gl/maps/3cq89LqojPM9MQ4G6",
-"lat": 36.7218,
-"lng": -4.4141,
-"category": "sight"
-},
-{
-"title": "Pompidou Málaga",
-"description": "Modern kunstmuseum in een kleurrijke kubus aan Muelle Uno met tijdelijke tentoonstellingen.",
-"image": "https://images.unsplash.com/photo-1559742811-fdf6f234d911",
-"link": "https://goo.gl/maps/Heu9nWRHgR8TLjAT6",
-"lat": 36.7157,
-"lng": -4.4132,
-"category": "museum"
-},
-{
-"title": "Café con Libros",
-"description": "Literair café aan Plaza de la Merced met koffie, boeken en vegan taartjes.",
-"image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
-"link": "https://goo.gl/maps/HLWQjv7yzW8RwvBz5",
-"lat": 36.7234,
-"lng": -4.4157,
-"category": "ontbijt"
-},
-{
-"title": "Restaurante Santiago’s Kitchen",
-"description": "Culinair pareltje in Alhaurín el Grande met tuinsetting en fine dining menu.",
-"image": "https://images.unsplash.com/photo-1582450045273-d544ee90d53b",
-"link": "https://goo.gl/maps/FFCmC4n56dj9LFBN8",
-"lat": 36.6374,
-"lng": -4.6856,
-"category": "diner"
-},
-{
-"title": "Setenil de las Bodegas",
-"description": "Uniek dorpje met witte huizen gebouwd onder en in de rotsen, gelegen in de provincie Cádiz.",
-"image": "https://images.unsplash.com/photo-1630493257055-2e9585a09a3f",
-"link": "https://goo.gl/maps/pgzyaVkRUgmnpwYB6",
-"lat": 36.8617,
-"lng": -5.1802,
-"category": "sight"
-},
-{
-"title": "Raften Río Genil",
-"description": "Actieve excursie met gids over de rivier de Genil – adrenaline en prachtig landschap gegarandeerd.",
-"image": "https://images.unsplash.com/photo-1566740933432-0ce9b4dca79b",
-"link": "https://goo.gl/maps/xq8xQtxbqZ7MQ5tN7",
-"lat": 37.2658,
-"lng": -4.7065,
-"category": "activiteit"
-},
-{
-"title": "La Bella Julieta",
-"description": "Hip koffieconcept in Málaga met uitstekende koffie, sandwiches en Instagram-proof interieur.",
-"image": "https://images.unsplash.com/photo-1598514982343-6a331a253f3d",
-"link": "https://goo.gl/maps/H2TxU2sRcCrCbRY39",
-"lat": 36.7185,
-"lng": -4.4235,
-"category": "ontbijt"
-},
-{
-"title": "Puerto Banús",
-"description": "Chique jachthaven van Marbella, bekend om luxe jachten, designerwinkels en boulevard.",
-"image": "https://images.unsplash.com/photo-1579546928681-b076ef5f1d05",
-"link": "https://goo.gl/maps/DcZMzEevQnUe7dT57",
-"lat": 36.4859,
-"lng": -4.9524,
-"category": "sight"
-},
-{
-"title": "Lobo Park",
-"description": "Wolvenreservaat bij Antequera waar je op educatieve wijze kennismaakt met verschillende wolvensoorten.",
-"image": "https://images.unsplash.com/photo-1603720189644-df2c54da0ed4",
-"link": "https://goo.gl/maps/Zx3dVqzhznr1wM1o8",
-"lat": 37.0075,
-"lng": -4.5728,
-"category": "activiteit"
-},
-{
-"title": "Balcon de Europa",
-"description": "Uitzichtpunt in Nerja op een klif boven zee met panoramisch uitzicht over de Middellandse Zee.",
-"image": "https://images.unsplash.com/photo-1627319722947-f67cf047272f",
-"link": "https://goo.gl/maps/BF3ugzN4ZV2kKxw98",
-"lat": 36.7437,
-"lng": -3.8755,
-"category": "sight"
-},
-{
-"title": "Plaza de España",
-"description": "Spectaculair plein in Sevilla met halfronde gebouwen, kanalen en bruggetjes. Filmlocatie van Star Wars.",
-"image": "https://images.unsplash.com/photo-1601202902211-6e3c49deeb6e",
-"link": "https://goo.gl/maps/1Q8c5qGpMPa9bFjc7",
-"lat": 37.3772,
-"lng": -5.9869,
-"category": "sight"
-},
-{
-"title": "Mercado Central de Atarazanas",
-"description": "Levendige overdekte markt in Málaga met tapasbars en lokale delicatessen.",
-"image": "https://images.unsplash.com/photo-1630493223646-c5d0a661d6d0",
-"link": "https://goo.gl/maps/R8pVcbHUtqR2",
-"lat": 36.7175,
-"lng": -4.4244,
-"category": "markt"
-},
-{
-"title": "Suite del Mundo",
-"description": "Luxe adults-only verblijf in de bergen bij Alhaurín el Grande, met uitzicht op de vallei en zwembad.",
-"image": "https://images.unsplash.com/photo-1582719478170-2b30b1a720ce",
-"link": "https://goo.gl/maps/zL3FgY97y5eLk8oa9",
-"lat": 36.6483,
-"lng": -4.6833,
-"category": "overnachten"
-},
-{
-"title": "Catedral de Sevilla",
-"description": "Een van de grootste kathedralen ter wereld met de beroemde Giralda-toren.",
-"image": "https://images.unsplash.com/photo-1580402250430-99a5350b2955",
-"link": "https://goo.gl/maps/LAvzH5xhzJZSRVbQ6",
-"lat": 37.3861,
-"lng": -5.9926,
-"category": "sight"
-},
-{
-"title": "Caminito del Rey",
-"description": "Spectaculaire wandelroute langs kliffen boven El Chorro, bij Ardales.",
-"image": "https://images.unsplash.com/photo-1584991528360-0c80b41e6e4c",
-"link": "https://goo.gl/maps/bEMf6GRDmzrDhQ6h7",
-"lat": 36.9133,
-"lng": -4.7592,
-"category": "hike"
-},
-{
-"title": "Andajuicya - The Boutique",
-"description": "Boho ontbijtspot in Alhaurín el Grande met specialty koffie, smoothiebowls en vintage vibes.",
-"image": "https://images.unsplash.com/photo-1613145996951-1c5d647f9285",
-"link": "https://goo.gl/maps/7GMQvGRDcNnY7AFc9",
-"lat": 36.6438,
-"lng": -4.6854,
-"category": "ontbijt"
-},
-{
-"title": "Rock of Gibraltar",
-"description": "Beroemde rots met uitzicht over Europa en Afrika, thuis van de wilde berberapen.",
-"image": "https://images.unsplash.com/photo-1608032077018-bb18b19f5b37",
-"link": "https://goo.gl/maps/suXqgW37XztQJdeRA",
-"lat": 36.1408,
-"lng": -5.3536,
-"category": "sight"
-},
-{
-"title": "Muelle Uno",
-"description": "Modern winkelgebied aan de haven van Málaga, met uitzicht op de zee en streetart langs de muren.",
-"image": "https://images.unsplash.com/photo-1623072228704-e268e29f54f4",
-"link": "https://goo.gl/maps/vWMEU1h2Zh99v6FT8",
-"lat": 36.7153,
-"lng": -4.4142,
-"category": "winkelen"
-},
-{
-"title": "La Recova",
-"description": "Koffietentje in Málaga met antieke meubels en Andalusisch ontbijt in de patio van een artisanale winkel.",
-"image": "https://images.unsplash.com/photo-1611926653450-3cfc4f6b01e9",
-"link": "https://goo.gl/maps/nM4FW6GeZXQAW4ms5",
-"lat": 36.7217,
-"lng": -4.4206,
-"category": "ontbijt"
-},
-{
-"title": "El Pimpi",
-"description": "Iconisch restaurant in Málaga met Andalusische sfeer, wijnvaten en live gitaarmuziek.",
-"image": "https://images.unsplash.com/photo-1565294124520-432ff2c0b1e7",
-"link": "https://goo.gl/maps/XQ6jZCUHAtJ2",
-"lat": 36.7213,
-"lng": -4.418,
-"category": "diner"
-},
-  {
-    "title": "Plaza de Espa\u00f1a",
-    "description": "Spectaculair plein in Sevilla met halfronde gebouwen, kanalen en bruggetjes.",
-    "image": "https://images.unsplash.com/photo-1601202902211-6e3c49deeb6e",
-    "link": "https://goo.gl/maps/1Q8c5qGpMPa9bFjc7",
-    "lat": 37.3772,
-    "lng": -5.9869,
-    "category": "sight"
-  }
+    {
+        "title": "Alcazaba de Málaga",
+        "description": "Moorse vesting in het centrum van Málaga met uitzicht over de haven en toegang tot het Romeins theater.",
+        "link": "https://www.google.com/maps?q=36.721,-4.416",
+        "lat": 36.721,
+        "lng": -4.416,
+        "category": "sight"
+    },
+    {
+        "title": "Pompidou Málaga",
+        "description": "Modern kunstmuseum in een kleurrijke kubus aan Muelle Uno met tijdelijke tentoonstellingen.",
+        "link": "https://www.google.com/maps?q=36.71904,-4.41325",
+        "lat": 36.71904,
+        "lng": -4.41325,
+        "category": "museum"
+    },
+    {
+        "title": "Café con Libros",
+        "description": "Literair café aan Plaza de la Merced met koffie, boeken en vegan taartjes.",
+        "link": "https://www.google.com/maps?q=36.7234,-4.4157",
+        "lat": 36.7234,
+        "lng": -4.4157,
+        "category": "ontbijt"
+    },
+    {
+        "title": "Restaurante Santiago’s Kitchen",
+        "description": "Culinair pareltje in Alhaurín el Grande met tuinsetting en fine dining menu.",
+        "link": "https://www.google.com/maps?q=36.640012,-4.685518",
+        "lat": 36.640012,
+        "lng": -4.685518,
+        "category": "diner"
+    },
+    {
+        "title": "Setenil de las Bodegas",
+        "description": "Uniek dorpje met witte huizen gebouwd onder en in de rotsen, gelegen in de provincie Cádiz.",
+        "link": "https://www.google.com/maps?q=36.8617,-5.1802",
+        "lat": 36.8617,
+        "lng": -5.1802,
+        "category": "sight"
+    },
+    {
+        "title": "Raften Río Genil",
+        "description": "Actieve excursie met gids over de rivier de Genil – adrenaline en prachtig landschap gegarandeerd.",
+        "link": "https://www.google.com/maps?q=37.2658,-4.7065",
+        "lat": 37.2658,
+        "lng": -4.7065,
+        "category": "activiteit"
+    },
+    {
+        "title": "La Bella Julieta",
+        "description": "Hip koffieconcept in Málaga met uitstekende koffie, sandwiches en Instagram-proof interieur.",
+        "link": "https://www.google.com/maps?q=36.7185,-4.4235",
+        "lat": 36.7185,
+        "lng": -4.4235,
+        "category": "ontbijt"
+    },
+    {
+        "title": "Puerto Banús",
+        "description": "Chique jachthaven van Marbella, bekend om luxe jachten, designerwinkels en boulevard.",
+        "link": "https://www.google.com/maps?q=36.4859,-4.9524",
+        "lat": 36.4859,
+        "lng": -4.9524,
+        "category": "sight"
+    },
+    {
+        "title": "Lobo Park",
+        "description": "Wolvenreservaat bij Antequera waar je op educatieve wijze kennismaakt met verschillende wolvensoorten.",
+        "link": "https://www.google.com/maps?q=36.986822,-4.622471",
+        "lat": 36.986822,
+        "lng": -4.622471,
+        "category": "activiteit"
+    },
+    {
+        "title": "Balcon de Europa",
+        "description": "Uitzichtpunt in Nerja op een klif boven zee met panoramisch uitzicht over de Middellandse Zee.",
+        "link": "https://www.google.com/maps?q=36.7448,-3.8769",
+        "lat": 36.7448,
+        "lng": -3.8769,
+        "category": "sight"
+    },
+    {
+        "title": "Plaza de España",
+        "description": "Spectaculair plein in Sevilla met halfronde gebouwen, kanalen en bruggetjes. Filmlocatie van Star Wars.",
+        "link": "https://www.google.com/maps?q=37.3772,-5.9869",
+        "lat": 37.3772,
+        "lng": -5.9869,
+        "category": "sight"
+    },
+    {
+        "title": "Mercado Central de Atarazanas",
+        "description": "Levendige overdekte markt in Málaga met tapasbars en lokale delicatessen.",
+        "link": "https://www.google.com/maps?q=36.7175,-4.4244",
+        "lat": 36.7175,
+        "lng": -4.4244,
+        "category": "markt"
+    },
+    {
+        "title": "Suite del Mundo",
+        "description": "Luxe adults-only verblijf in de bergen bij Alhaurín el Grande, met uitzicht op de vallei en zwembad.",
+        "link": "https://www.google.com/maps?q=36.6483,-4.6833",
+        "lat": 36.6483,
+        "lng": -4.6833,
+        "category": "overnachten"
+    },
+    {
+        "title": "Catedral de Sevilla",
+        "description": "Een van de grootste kathedralen ter wereld met de beroemde Giralda-toren.",
+        "link": "https://www.google.com/maps?q=37.3861,-5.9926",
+        "lat": 37.3861,
+        "lng": -5.9926,
+        "category": "sight"
+    },
+    {
+        "title": "Caminito del Rey",
+        "description": "Spectaculaire wandelroute langs kliffen boven El Chorro, bij Ardales.",
+        "link": "https://www.google.com/maps?q=36.931625,-4.801734",
+        "lat": 36.931625,
+        "lng": -4.801734,
+        "category": "hike"
+    },
+    {
+        "title": "Andajuicya - The Boutique",
+        "description": "Boho ontbijtspot in Alhaurín el Grande met specialty koffie, smoothiebowls en vintage vibes.",
+        "link": "https://www.google.com/maps?q=36.6438,-4.6854",
+        "lat": 36.6438,
+        "lng": -4.6854,
+        "category": "ontbijt"
+    },
+    {
+        "title": "Rock of Gibraltar",
+        "description": "Beroemde rots met uitzicht over Europa en Afrika, thuis van de wilde berberapen.",
+        "link": "https://www.google.com/maps?q=36.1408,-5.3536",
+        "lat": 36.1408,
+        "lng": -5.3536,
+        "category": "sight"
+    },
+    {
+        "title": "Muelle Uno",
+        "description": "Modern winkelgebied aan de haven van Málaga, met uitzicht op de zee en streetart langs de muren.",
+        "link": "https://www.google.com/maps?q=36.7153,-4.4142",
+        "lat": 36.7153,
+        "lng": -4.4142,
+        "category": "winkelen"
+    },
+    {
+        "title": "La Recova",
+        "description": "Koffietentje in Málaga met antieke meubels en Andalusisch ontbijt in de patio van een artisanale winkel.",
+        "link": "https://www.google.com/maps?q=36.7217,-4.4206",
+        "lat": 36.7217,
+        "lng": -4.4206,
+        "category": "ontbijt"
+    },
+    {
+        "title": "El Pimpi",
+        "description": "Iconisch restaurant in Málaga met Andalusische sfeer, wijnvaten en live gitaarmuziek.",
+        "link": "https://www.google.com/maps?q=36.7213,-4.418",
+        "lat": 36.7213,
+        "lng": -4.418,
+        "category": "diner"
+    },
+    {
+        "title": "Plaza de los Naranjos",
+        "description": "Historisch plein in het hart van Marbella met sinaasappelbomen en gezellige terrassen.",
+        "link": "https://www.google.com/maps?q=36.5104,-4.8854",
+        "lat": 36.5104,
+        "lng": -4.8854,
+        "category": "plein"
+    },
+    {
+        "title": "Río Chillar Hike",
+        "description": "Verfrissende wandeling door een rivierbedding in Nerja met watervallen en kloven.",
+        "link": "https://www.google.com/maps?q=36.7724,-3.8698",
+        "lat": 36.7724,
+        "lng": -3.8698,
+        "category": "hike"
+    },
+    {
+        "title": "Bar Lola",
+        "description": "Populaire tapasbar in Tarifa met creatieve hapjes en bruisende sfeer in smal straatje.",
+        "link": "https://www.google.com/maps?q=36.0133,-5.6021",
+        "lat": 36.0133,
+        "lng": -5.6021,
+        "category": "diner"
+    },
+    {
+        "title": "Museo del Vidrio y Cristal",
+        "description": "Klein museum in Málaga over glas, glas-in-lood en kristal in een antiek pand.",
+        "link": "https://www.google.com/maps?q=36.7232,-4.4234",
+        "lat": 36.7232,
+        "lng": -4.4234,
+        "category": "museum"
+    },
+    {
+        "title": "Torcal de Antequera",
+        "description": "Bizar kalkstenen natuurgebied met grillige rotsformaties, gieren en wandelroutes.",
+        "link": "https://www.google.com/maps?q=36.9533,-4.5448",
+        "lat": 36.9533,
+        "lng": -4.5448,
+        "category": "natuur"
+    },
+    {
+        "title": "Cueva del Gato",
+        "description": "Natuurzwembad in een grot bij Benaoján met turquoise water en grotingang.",
+        "link": "https://www.google.com/maps?q=36.7371,-5.2842",
+        "lat": 36.7371,
+        "lng": -5.2842,
+        "category": "zwemmen"
+    },
+    {
+        "title": "Café Central Málaga",
+        "description": "Historisch café op Plaza de la Constitución met eigen koffietaalsysteem.",
+        "link": "https://www.google.com/maps?q=36.7201,-4.4213",
+        "lat": 36.7201,
+        "lng": -4.4213,
+        "category": "koffie"
+    },
+    {
+        "title": "Gibraltar Cable Car",
+        "description": "Kabelbaan naar de top van de Rots van Gibraltar – snelle route naar het uitzicht en de apen.",
+        "link": "https://www.google.com/maps?q=36.1389,-5.3533",
+        "lat": 36.1389,
+        "lng": -5.3533,
+        "category": "activiteit"
+    },
+    {
+        "title": "Restaurante Arriate",
+        "description": "Authentiek Spaans restaurant buiten Ronda met lokale gerechten en gemoedelijke sfeer.",
+        "link": "https://www.google.com/maps?q=36.7604,-5.1518",
+        "lat": 36.7604,
+        "lng": -5.1518,
+        "category": "diner"
+    },
+    {
+        "title": "Jardín Botánico El Retiro",
+        "description": "Oudste botanische tuin van Spanje, gelegen in Churriana – tropisch, stil en vol vogels.",
+        "link": "https://www.google.com/maps?q=36.6562,-4.4998",
+        "lat": 36.6562,
+        "lng": -4.4998,
+        "category": "natuur"
+    },
+    {
+        "title": "Avenida del Mar Marbella",
+        "description": "Luxe wandelboulevard met Dalí-beelden, fonteinen en uitzicht op zee.",
+        "link": "https://www.google.com/maps?q=36.5098,-4.8862",
+        "lat": 36.5098,
+        "lng": -4.8862,
+        "category": "wandelen"
+    },
+    {
+        "title": "Museo de Málaga",
+        "description": "Uitgebreid museum over kunst en archeologie in het oude douanegebouw.",
+        "link": "https://www.google.com/maps?q=36.719,-4.4195",
+        "lat": 36.719,
+        "lng": -4.4195,
+        "category": "museum"
+    },
+    {
+        "title": "Mercado Histórico de Córdoba",
+        "description": "Historische markt in Córdoba.",
+        "link": "https://www.google.com/maps?q=37.8811,-4.7804",
+        "lat": 37.8811,
+        "lng": -4.7804,
+        "category": "markt"
+    },
+    {
+        "title": "Playa de la Malagueta",
+        "description": "Stadsstrand van Málaga op loopafstand van het centrum, met chiringuitos en verhuur.",
+        "link": "https://www.google.com/maps?q=36.717,-4.4042",
+        "lat": 36.717,
+        "lng": -4.4042,
+        "category": "strand"
+    },
+    {
+        "title": "Parque de la Paloma",
+        "description": "Ruim stadspark in Benalmádena met dieren, vijvers en veel groen.",
+        "link": "https://www.google.com/maps?q=36.5971,-4.5277",
+        "lat": 36.5971,
+        "lng": -4.5277,
+        "category": "park"
+    },
+    {
+        "title": "La Canasta",
+        "description": "Bakkerij & café met Andalusische broodjes, ontbijtformules en lokale sfeer.",
+        "link": "https://www.google.com/maps?q=36.7206,-4.4208",
+        "lat": 36.7206,
+        "lng": -4.4208,
+        "category": "ontbijt"
+    },
+    {
+        "title": "Castillo Sohail Festival",
+        "description": "Zomers muziekfestival in het kasteel van Fuengirola – intiem en sfeervol.",
+        "link": "https://www.google.com/maps?q=36.5289,-4.6251",
+        "lat": 36.5289,
+        "lng": -4.6251,
+        "category": "muziek"
+    },
+    {
+        "title": "Puerto de Málaga",
+        "description": "Cruisehaven met wandelpromenade, winkeltjes en verbinding naar het stadscentrum.",
+        "link": "https://www.google.com/maps?q=36.7158,-4.4158",
+        "lat": 36.7158,
+        "lng": -4.4158,
+        "category": "haven"
+    },
+    {
+        "title": "Café de Estraperlo",
+        "description": "Klein koffiehuisje in Málaga met boekenkasten, vintage inrichting en vegan opties.",
+        "link": "https://www.google.com/maps?q=36.7223,-4.4167",
+        "lat": 36.7223,
+        "lng": -4.4167,
+        "category": "ontbijt"
+    },
+    {
+        "title": "Ermita del Calvario",
+        "description": "Rustige kapel boven Alhaurín el Grande met wandelpad en panoramisch uitzicht.",
+        "link": "https://www.google.com/maps?q=36.6511,-4.6778",
+        "lat": 36.6511,
+        "lng": -4.6778,
+        "category": "uitzicht"
+    },
+    {
+        "title": "Bar Picasso",
+        "description": "Klassiek tapasrestaurant aan het strand van Torremolinos, populair bij locals.",
+        "link": "https://www.google.com/maps?q=36.6212,-4.4994",
+        "lat": 36.6212,
+        "lng": -4.4994,
+        "category": "diner"
+    },
+    {
+        "title": "Sohail Castle",
+        "description": "Moorse vesting aan de kust van Fuengirola, nu gebruikt voor openluchtevenementen.",
+        "link": "https://www.google.com/maps?q=36.5289,-4.6251",
+        "lat": 36.5289,
+        "lng": -4.6251,
+        "category": "sight"
+    },
+    {
+        "title": "Torre del Mar Promenade",
+        "description": "Lange boulevard met palmbomen, strandbars en fietspad langs de kust bij Vélez-Málaga.",
+        "link": "https://www.google.com/maps?q=36.7379,-4.0964",
+        "lat": 36.7379,
+        "lng": -4.0964,
+        "category": "wandelen"
+    },
+    {
+        "title": "Chiringuito El Cachalote",
+        "description": "Visrestaurant direct op het strand van Málaga met verse sardientjes en zeezicht.",
+        "link": "https://www.google.com/maps?q=36.7132,-4.3995",
+        "lat": 36.7132,
+        "lng": -4.3995,
+        "category": "diner"
+    },
+    {
+        "title": "Albaicín Granada",
+        "description": "Witte wijk met smalle straatjes, theehuisjes en uitzicht op het Alhambra – vol historie.",
+        "link": "https://www.google.com/maps?q=37.1811,-3.5945",
+        "lat": 37.1811,
+        "lng": -3.5945,
+        "category": "wijk"
+    },
+    {
+        "title": "Larios Centro",
+        "description": "Modern winkelcentrum in Málaga vlakbij het busstation, met Zara, Mango en foodcourt.",
+        "link": "https://www.google.com/maps?q=36.7145,-4.4323",
+        "lat": 36.7145,
+        "lng": -4.4323,
+        "category": "winkelen"
+    },
+    {
+        "title": "Mirador del Estrecho",
+        "description": "Spectaculair uitzichtpunt bij Tarifa met zicht op Afrika op heldere dagen.",
+        "link": "https://www.google.com/maps?q=36.0099,-5.5875",
+        "lat": 36.0099,
+        "lng": -5.5875,
+        "category": "uitzicht"
+    },
+    {
+        "title": "Plaza de Toros Ronda",
+        "description": "Eén van de oudste arena’s van Spanje, nu ook museum over stierenvechten en paarden.",
+        "link": "https://www.google.com/maps?q=36.7411,-5.1662",
+        "lat": 36.7411,
+        "lng": -5.1662,
+        "category": "cultuur"
+    },
+    {
+        "title": "Restaurante La Molienda",
+        "description": "Populaire ontbijtspot in Málaga met specialty coffee, tostadas en een rustige binnenplaats.",
+        "link": "https://www.google.com/maps?q=36.7189,-4.421",
+        "lat": 36.7189,
+        "lng": -4.421,
+        "category": "ontbijt"
+    },
+    {
+        "title": "Castillo de Colomares",
+        "description": "Sprookjesachtig monument ter ere van Columbus in Benalmádena, met torens en symboliek.",
+        "link": "https://www.google.com/maps?q=36.5967,-4.5692",
+        "lat": 36.5967,
+        "lng": -4.5692,
+        "category": "sight"
+    },
+    {
+        "title": "Acuario de Sevilla",
+        "description": "Modern aquarium in Sevilla met zeeschildpadden, tropische vissen en educatieve installaties.",
+        "link": "https://www.google.com/maps?q=37.3687,-5.9904",
+        "lat": 37.3687,
+        "lng": -5.9904,
+        "category": "dieren"
+    },
+    {
+        "title": "Museo Carmen Thyssen Málaga",
+        "description": "Kunstmuseum met Andalusische schilderkunst, gevestigd in een historisch paleis.",
+        "link": "https://www.google.com/maps?q=36.72,-4.4216",
+        "lat": 36.72,
+        "lng": -4.4216,
+        "category": "museum"
+    },
+    {
+        "title": "Tropicana Beach Club",
+        "description": "Relaxte strandclub aan Playa del Cristo (Estepona) met ligbedden, lunch en loungemuziek.",
+        "link": "https://www.google.com/maps?q=36.4185,-5.1589",
+        "lat": 36.4185,
+        "lng": -5.1589,
+        "category": "strand"
+    },
+    {
+        "title": "Plaza de la Merced",
+        "description": "Levendig plein in Málaga met terrasjes, markten en het geboortehuis van Picasso.",
+        "link": "https://www.google.com/maps?q=36.7235,-4.4176",
+        "lat": 36.7235,
+        "lng": -4.4176,
+        "category": "plein"
+    },
+    {
+        "title": "Baños Árabes Córdoba",
+        "description": "Heropgebouwde Moorse baden met massages en thermale beleving in historische stijl.",
+        "link": "https://www.google.com/maps?q=37.8821,-4.7749",
+        "lat": 37.8821,
+        "lng": -4.7749,
+        "category": "wellness"
+    },
+    {
+        "title": "Alameda Principal Málaga",
+        "description": "Brede boulevard met oude bomen, statige panden en verbinding tussen haven en centrum.",
+        "link": "https://www.google.com/maps?q=36.7162,-4.4231",
+        "lat": 36.7162,
+        "lng": -4.4231,
+        "category": "straat"
+    },
+    {
+        "title": "El Rastro de Córdoba",
+        "description": "Zondagse vlooienmarkt met antiek, muziek en Spaanse snuisterijen in de wijk Arenal.",
+        "link": "https://www.google.com/maps?q=37.8842,-4.7827",
+        "lat": 37.8842,
+        "lng": -4.7827,
+        "category": "markt"
+    },
+    {
+        "title": "Fuengirola Street Art Walk",
+        "description": "Wandeling langs kleurrijke murals door het centrum van Fuengirola – verrassend artistiek.",
+        "link": "https://www.google.com/maps?q=36.5445,-4.6246",
+        "lat": 36.5445,
+        "lng": -4.6246,
+        "category": "kunst"
+    },
+    {
+        "title": "Mijas Pueblo Mirador",
+        "description": "Uitzichtpunt in het witte bergdorp Mijas Pueblo met zicht over de kustlijn van de Costa del Sol.",
+        "link": "https://www.google.com/maps?q=36.5961,-4.6375",
+        "lat": 36.5961,
+        "lng": -4.6375,
+        "category": "uitzicht"
+    },
+    {
+        "title": "Playa de Bolonia",
+        "description": "Afgelegen strand bij Tarifa met duinen, ruïnes van Baelo Claudia en azuurblauw water.",
+        "link": "https://www.google.com/maps?q=36.0836,-5.7704",
+        "lat": 36.0836,
+        "lng": -5.7704,
+        "category": "strand"
+    },
+    {
+        "title": "Castillo de Gibralfaro",
+        "description": "Burcht boven Málaga met uitzicht op de haven, verbonden met de Alcazaba via een muurpad.",
+        "link": "https://www.google.com/maps?q=36.7291,-4.4133",
+        "lat": 36.7291,
+        "lng": -4.4133,
+        "category": "sight"
+    },
+    {
+        "title": "Restaurante Valparaiso",
+        "description": "Klassiek restaurant met openluchtpodium, fonteinen en romantische diners in Alhaurín el Grande.",
+        "link": "https://www.google.com/maps?q=36.6405,-4.685",
+        "lat": 36.6405,
+        "lng": -4.685,
+        "category": "diner"
+    },
+    {
+        "title": "Jardines de la Alhambra",
+        "description": "De Generalife-tuinen rond het Alhambra: bloeiende patio’s, fonteinen en Moorse architectuur.",
+        "link": "https://www.google.com/maps?q=37.1761,-3.584",
+        "lat": 37.1761,
+        "lng": -3.584,
+        "category": "natuur"
+    },
+    {
+        "title": "Hammam Al Ándalus Málaga",
+        "description": "Arabisch badhuis met warme baden, massages en een betoverende sfeer in het centrum van Málaga.",
+        "link": "https://www.google.com/maps?q=36.7219,-4.419",
+        "lat": 36.7219,
+        "lng": -4.419,
+        "category": "wellness"
+    },
+    {
+        "title": "Mariposario de Benalmádena",
+        "description": "Tropische vlindertuin met honderden soorten vlinders en een kleine Aziatische tempel.",
+        "link": "https://www.google.com/maps?q=36.6051,-4.5687",
+        "lat": 36.6051,
+        "lng": -4.5687,
+        "category": "dieren"
+    },
+    {
+        "title": "Calle Larios",
+        "description": "De bekendste winkelstraat van Málaga met elegante architectuur en verlichting tijdens de feestdagen.",
+        "link": "https://www.google.com/maps?q=36.7205,-4.4211",
+        "lat": 36.7205,
+        "lng": -4.4211,
+        "category": "winkelen"
+    },
+    {
+        "title": "Gibraltar Nature Reserve",
+        "description": "Natuurreservaat op de rots van Gibraltar met wandelroutes, apen en het uitzichtpunt O'Hara's Battery.",
+        "link": "https://www.google.com/maps?q=36.1323,-5.3432",
+        "lat": 36.1323,
+        "lng": -5.3432,
+        "category": "natuur"
+    },
+    {
+        "title": "La Térmica Málaga",
+        "description": "Cultureel centrum in Málaga met wisselende exposities, marktjes en evenementen over design & lifestyle.",
+        "link": "https://www.google.com/maps?q=36.7071,-4.4478",
+        "lat": 36.7071,
+        "lng": -4.4478,
+        "category": "kunst"
+    },
+    {
+        "title": "Cueva de Nerja",
+        "description": "Imposante druipsteengrotten met lichtshows, muurschilderingen en ondergrondse concerten.",
+        "link": "https://www.google.com/maps?q=36.7484,-3.8706",
+        "lat": 36.7484,
+        "lng": -3.8706,
+        "category": "sight"
+    },
+    {
+        "title": "Tetería Palacio Nazarí",
+        "description": "Sfeervolle Arabische theetuin in Granada met uitzicht op de Alhambra en uitgebreide theekaart.",
+        "link": "https://www.google.com/maps?q=37.1804,-3.5897",
+        "lat": 37.1804,
+        "lng": -3.5897,
+        "category": "thee"
+    },
+    {
+        "title": "La Tetería del Bañuelo",
+        "description": "Authentieke theehuis aan de voet van het Albaicín met tapas, shisha en uitzicht op de Sierra Nevada.",
+        "link": "https://www.google.com/maps?q=37.1812,-3.5923",
+        "lat": 37.1812,
+        "lng": -3.5923,
+        "category": "thee"
+    },
+    {
+        "title": "El Balcón de la Bahía",
+        "description": "Tapasrestaurant met uitzicht op de baai van Algeciras en zicht op de rots van Gibraltar.",
+        "link": "https://www.google.com/maps?q=36.1346,-5.4504",
+        "lat": 36.1346,
+        "lng": -5.4504,
+        "category": "diner"
+    },
+    {
+        "title": "Ronda Brug",
+        "description": "De iconische Puente Nuevo over de El Tajo kloof in Ronda – indrukwekkende must-see in Andalusië.",
+        "link": "https://www.google.com/maps?q=36.7416,-5.1669",
+        "lat": 36.7416,
+        "lng": -5.1669,
+        "category": "sight"
+    },
+    {
+        "title": "Triana Sevilla",
+        "description": "Kleurrijke volkswijk aan de overkant van de rivier, bekend om keramiek, tapas en flamenco.",
+        "link": "https://www.google.com/maps?q=37.3835,-6.0031",
+        "lat": 37.3835,
+        "lng": -6.0031,
+        "category": "wijk"
+    },
+    {
+        "title": "Jardín Botánico La Concepción",
+        "description": "Tropische botanische tuin in Málaga met watervallen, uitzichtpunten en eeuwenoude bomen.",
+        "link": "https://www.google.com/maps?q=36.7439,-4.4441",
+        "lat": 36.7439,
+        "lng": -4.4441,
+        "category": "natuur"
+    },
+    {
+        "title": "Gibraltar Skywalk",
+        "description": "Glazen uitkijkplatform op de rots van Gibraltar, met panoramisch uitzicht over de zee.",
+        "link": "https://www.google.com/maps?q=36.1331,-5.3491",
+        "lat": 36.1331,
+        "lng": -5.3491,
+        "category": "sight"
+    },
+    {
+        "title": "Mercado de Triana",
+        "description": "Overdekte markt in de wijk Triana (Sevilla) met lokale producten, bars en authentieke sfeer.",
+        "link": "https://www.google.com/maps?q=37.3837,-6.0035",
+        "lat": 37.3837,
+        "lng": -6.0035,
+        "category": "markt"
+    },
+    {
+        "title": "Tetería Kasbah",
+        "description": "Marokkaans geïnspireerde theehuis in het hart van Córdoba met mozaïekbanken en muntdrankjes.",
+        "link": "https://www.google.com/maps?q=37.8848,-4.7761",
+        "lat": 37.8848,
+        "lng": -4.7761,
+        "category": "thee"
+    },
+    {
+        "title": "Patio de los Naranjos",
+        "description": "Binnenhof van de Mezquita in Córdoba, omgeven door sinaasappelbomen en fonteinen.",
+        "link": "https://www.google.com/maps?q=37.8792,-4.7794",
+        "lat": 37.8792,
+        "lng": -4.7794,
+        "category": "sight"
+    },
+    {
+        "title": "Alcazaba de Málaga",
+        "description": "Moorse vesting in het centrum van Málaga met uitzicht over de haven en toegang tot het Romeins theater.",
+        "link": "https://www.google.com/maps?q=36.7218,-4.4141",
+        "lat": 36.7218,
+        "lng": -4.4141,
+        "category": "sight"
+    },
+    {
+        "title": "Pompidou Málaga",
+        "description": "Modern kunstmuseum in een kleurrijke kubus aan Muelle Uno met tijdelijke tentoonstellingen.",
+        "link": "https://www.google.com/maps?q=36.7157,-4.4132",
+        "lat": 36.7157,
+        "lng": -4.4132,
+        "category": "museum"
+    },
+    {
+        "title": "Café con Libros",
+        "description": "Literair café aan Plaza de la Merced met koffie, boeken en vegan taartjes.",
+        "link": "https://www.google.com/maps?q=36.7234,-4.4157",
+        "lat": 36.7234,
+        "lng": -4.4157,
+        "category": "ontbijt"
+    },
+    {
+        "title": "Restaurante Santiago’s Kitchen",
+        "description": "Culinair pareltje in Alhaurín el Grande met tuinsetting en fine dining menu.",
+        "link": "https://www.google.com/maps?q=36.6374,-4.6856",
+        "lat": 36.6374,
+        "lng": -4.6856,
+        "category": "diner"
+    },
+    {
+        "title": "Setenil de las Bodegas",
+        "description": "Uniek dorpje met witte huizen gebouwd onder en in de rotsen, gelegen in de provincie Cádiz.",
+        "link": "https://www.google.com/maps?q=36.8617,-5.1802",
+        "lat": 36.8617,
+        "lng": -5.1802,
+        "category": "sight"
+    },
+    {
+        "title": "Raften Río Genil",
+        "description": "Actieve excursie met gids over de rivier de Genil – adrenaline en prachtig landschap gegarandeerd.",
+        "link": "https://www.google.com/maps?q=37.2658,-4.7065",
+        "lat": 37.2658,
+        "lng": -4.7065,
+        "category": "activiteit"
+    },
+    {
+        "title": "La Bella Julieta",
+        "description": "Hip koffieconcept in Málaga met uitstekende koffie, sandwiches en Instagram-proof interieur.",
+        "link": "https://www.google.com/maps?q=36.7185,-4.4235",
+        "lat": 36.7185,
+        "lng": -4.4235,
+        "category": "ontbijt"
+    },
+    {
+        "title": "Puerto Banús",
+        "description": "Chique jachthaven van Marbella, bekend om luxe jachten, designerwinkels en boulevard.",
+        "link": "https://www.google.com/maps?q=36.4859,-4.9524",
+        "lat": 36.4859,
+        "lng": -4.9524,
+        "category": "sight"
+    },
+    {
+        "title": "Lobo Park",
+        "description": "Wolvenreservaat bij Antequera waar je op educatieve wijze kennismaakt met verschillende wolvensoorten.",
+        "link": "https://www.google.com/maps?q=37.0075,-4.5728",
+        "lat": 37.0075,
+        "lng": -4.5728,
+        "category": "activiteit"
+    },
+    {
+        "title": "Balcon de Europa",
+        "description": "Uitzichtpunt in Nerja op een klif boven zee met panoramisch uitzicht over de Middellandse Zee.",
+        "link": "https://www.google.com/maps?q=36.7437,-3.8755",
+        "lat": 36.7437,
+        "lng": -3.8755,
+        "category": "sight"
+    },
+    {
+        "title": "Plaza de España",
+        "description": "Spectaculair plein in Sevilla met halfronde gebouwen, kanalen en bruggetjes. Filmlocatie van Star Wars.",
+        "link": "https://www.google.com/maps?q=37.3772,-5.9869",
+        "lat": 37.3772,
+        "lng": -5.9869,
+        "category": "sight"
+    },
+    {
+        "title": "Mercado Central de Atarazanas",
+        "description": "Levendige overdekte markt in Málaga met tapasbars en lokale delicatessen.",
+        "link": "https://www.google.com/maps?q=36.7175,-4.4244",
+        "lat": 36.7175,
+        "lng": -4.4244,
+        "category": "markt"
+    },
+    {
+        "title": "Suite del Mundo",
+        "description": "Luxe adults-only verblijf in de bergen bij Alhaurín el Grande, met uitzicht op de vallei en zwembad.",
+        "link": "https://www.google.com/maps?q=36.6483,-4.6833",
+        "lat": 36.6483,
+        "lng": -4.6833,
+        "category": "overnachten"
+    },
+    {
+        "title": "Catedral de Sevilla",
+        "description": "Een van de grootste kathedralen ter wereld met de beroemde Giralda-toren.",
+        "link": "https://www.google.com/maps?q=37.3861,-5.9926",
+        "lat": 37.3861,
+        "lng": -5.9926,
+        "category": "sight"
+    },
+    {
+        "title": "Caminito del Rey",
+        "description": "Spectaculaire wandelroute langs kliffen boven El Chorro, bij Ardales.",
+        "link": "https://www.google.com/maps?q=36.9133,-4.7592",
+        "lat": 36.9133,
+        "lng": -4.7592,
+        "category": "hike"
+    },
+    {
+        "title": "Andajuicya - The Boutique",
+        "description": "Boho ontbijtspot in Alhaurín el Grande met specialty koffie, smoothiebowls en vintage vibes.",
+        "link": "https://www.google.com/maps?q=36.6438,-4.6854",
+        "lat": 36.6438,
+        "lng": -4.6854,
+        "category": "ontbijt"
+    },
+    {
+        "title": "Rock of Gibraltar",
+        "description": "Beroemde rots met uitzicht over Europa en Afrika, thuis van de wilde berberapen.",
+        "link": "https://www.google.com/maps?q=36.1408,-5.3536",
+        "lat": 36.1408,
+        "lng": -5.3536,
+        "category": "sight"
+    },
+    {
+        "title": "Muelle Uno",
+        "description": "Modern winkelgebied aan de haven van Málaga, met uitzicht op de zee en streetart langs de muren.",
+        "link": "https://www.google.com/maps?q=36.7153,-4.4142",
+        "lat": 36.7153,
+        "lng": -4.4142,
+        "category": "winkelen"
+    },
+    {
+        "title": "La Recova",
+        "description": "Koffietentje in Málaga met antieke meubels en Andalusisch ontbijt in de patio van een artisanale winkel.",
+        "link": "https://www.google.com/maps?q=36.7217,-4.4206",
+        "lat": 36.7217,
+        "lng": -4.4206,
+        "category": "ontbijt"
+    },
+    {
+        "title": "El Pimpi",
+        "description": "Iconisch restaurant in Málaga met Andalusische sfeer, wijnvaten en live gitaarmuziek.",
+        "link": "https://www.google.com/maps?q=36.7213,-4.418",
+        "lat": 36.7213,
+        "lng": -4.418,
+        "category": "diner"
+    },
+    {
+        "title": "Plaza de España",
+        "description": "Spectaculair plein in Sevilla met halfronde gebouwen, kanalen en bruggetjes.",
+        "link": "https://www.google.com/maps?q=37.3772,-5.9869",
+        "lat": 37.3772,
+        "lng": -5.9869,
+        "category": "sight"
+    }
 ]
